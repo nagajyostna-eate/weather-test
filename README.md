@@ -9,7 +9,7 @@ install plugin "geckodriver" for browser to open
 and change the path in java file webHelper
 
 
-import bdd scripts and click omn run 
+
 
 
 
