@@ -5,7 +5,7 @@
 Installations :
 
 install java 
-install aplugin "geckodriver" if the browser does not open , here we are using Firefox 
+install plugin "geckodriver" for browser to open  
 and change the path in java file webHelper
 
 
@@ -29,6 +29,7 @@ group all the reusable functional in one java file , so that functions can be re
 if we use Java 8 , string validations will be much easier
 group all the global variable in common properties eg : Sleep , Url ( so it is easier to change the URl depending of the environment tested )
 can test for multiple browsers
+can put the the paths in the common.proprties 
 
 
 
