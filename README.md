@@ -5,7 +5,8 @@
 Installations :
 
 install java 
-install all the required plugins if the browser does not open , here we are using Firefox 
+install aplugin "geckodriver" if the browser does not open , here we are using Firefox 
+and change the path in java file webHelper
 
 
 import bdd scripts and click omn run 
